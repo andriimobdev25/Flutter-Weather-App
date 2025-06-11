@@ -29,7 +29,7 @@ To use this app, follow these steps:
 ## Screenshots
 | Main Screen ( Celsius )| Main Screen ( Fahrenheit ) | Main Screen ( Delete City ) | Main Screen ( Search City ) |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
-| <img src="https://github.com/andriimobdev25/Flutter-Weather-App/assets/75584975/80a0e4f5-8822-46e2-bf87-fa6eb4f75e46" alt="Screenshot 1" width="200"> | <img src="https://github.com/andriimobdev25/Flutter-Weather-App/assets/75584975/1e4313d9-8c20-45aa-8c14-be8ef457e7c6" alt="Screenshot 2" width="200"> | <img src="https://github.com/andriimobdev25/Flutter-Weather-App/assets/75584975/3ff74f4f-58f5-431d-9a68-51a3268ae180" alt="Screenshot 3" width="200"> | <img src="https://github.com/andriimobdev25/Flutter-Weather-App/assets/75584975/f002dcfc-0fd1-4123-8527-dc0c0a30dc9b" alt="Screenshot 4" width="200"> |
+| <img src="https://github.com/andriimobdev25/Flutter-Weather-App/blob/main/weather/assets/images/01d.jpeg" alt="Screenshot 1" width="200"> | <img src="https://github.com/andriimobdev25/Flutter-Weather-App/assets/75584975/1e4313d9-8c20-45aa-8c14-be8ef457e7c6" alt="Screenshot 2" width="200"> | <img src="https://github.com/andriimobdev25/Flutter-Weather-App/assets/75584975/3ff74f4f-58f5-431d-9a68-51a3268ae180" alt="Screenshot 3" width="200"> | <img src="https://github.com/andriimobdev25/Flutter-Weather-App/assets/75584975/f002dcfc-0fd1-4123-8527-dc0c0a30dc9b" alt="Screenshot 4" width="200"> |
 
 | City Screen ( Part 1 ) | City Screen ( Part 2 ) | City Screen ( Part 3 ) | City Screen ( Other One ) |
 | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
